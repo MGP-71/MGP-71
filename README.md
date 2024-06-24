@@ -7,5 +7,5 @@
  </abc>
 </h2> 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MGP-71&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MGP-71&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
