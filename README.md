@@ -6,3 +6,6 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MGP-71&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+</p>
