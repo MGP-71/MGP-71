@@ -6,6 +6,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MGP-71&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<details>
+  <summary><b>GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true" />
+</details>
