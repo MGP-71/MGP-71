@@ -2,8 +2,12 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Miguel, a Software Engineering student :computer:<br>
-  <br> Currently working for Capgemini Spain<br>
+  <div style="float:left;">Currently working for Capgemini Spain</div>
+  <div style="float:left;"><img src=""/></div>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true" align="right"/>
+</h2>
+<h2>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true">
+</h2>
