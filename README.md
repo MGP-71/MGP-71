@@ -6,6 +6,4 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-</h2> 
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true" align="right"/>
