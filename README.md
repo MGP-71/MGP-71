@@ -7,6 +7,6 @@
  </abc>
 </h2> 
 <details>
-  <summary><b>GitHub Profile Stat</b></summary>
+  <b>GitHub Profile Stat</b>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true" />
 </details>
