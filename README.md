@@ -8,6 +8,10 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-<h2>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MGP-71&show_icons=true">
-</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MGP-71" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGP-71&layout=compact&langs_count=8&card_width=300" />
+</a>
